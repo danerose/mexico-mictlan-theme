@@ -6,6 +6,17 @@
   "engines": {
     "vscode": "^1.73.0"
   },
+  "publisher": "Danerose",
+  "icon": "icons/mictlan.png",
+  "author": {
+    "name": "Alexis Valencia",
+    "email": "nothave@email.com",
+    "url": "https://github.com/danerose"
+  },
+  "repository": {
+    "url": "https://github.com/danerose/mexico-mictlan-theme",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
